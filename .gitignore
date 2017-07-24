@@ -10,3 +10,6 @@ buildNumber.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+
+# Avoid ignoring the output files used by the tests
+!src/test/resources/target
