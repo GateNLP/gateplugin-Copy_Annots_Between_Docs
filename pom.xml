@@ -16,6 +16,9 @@
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>copy-annots-between-docs</artifactId>
 	<version>8.5-SNAPSHOT</version>
+	
+	<name>Copy Annotations Between Documents</name>
+	<description>A PR to simplify the process of copying annotations from one document to another</description>
 
 	<licenses>
 		<license>
